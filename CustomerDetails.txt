@@ -1,0 +1,6 @@
+Customer Username : siam
+Customer Password : 1234
+Customer Contact Number : 01567865432
+Customer Username : moinul
+Customer Password : 12345
+Customer Contact Number : 01567172823
